@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>隐私权政策 - Word Search Istilah Sejarah SPM</title>
+  <style>
+    body{font-family:Arial,Helvetica,sans-serif;max-width:900px;margin:0 auto;padding:24px;line-height:1.6}
+    h1{font-size:26px;margin:0 0 8px}
+    .muted{color:#666}
+    h2{margin-top:24px}
+    code{background:#f3f3f3;padding:2px 6px;border-radius:6px}
+    .box{background:#fafafa;border:1px solid #eee;padding:14px;border-radius:10px}
+  </style>
+</head>
+<body>
+  <h1>隐私权政策</h1>
+  <div class="muted">应用：<b>Word Search Istilah Sejarah SPM</b>（以下简称“本应用”）</div>
+  <div class="muted">开发者：<b>MM Team</b></div>
+  <div class="muted">更新日期：<b>2025-12-16</b></div>
+
+  <h2>1. 我们收集哪些信息？</h2>
+  <div class="box">
+    <p><b>本应用本身不要求你注册账号，也不会主动收集你的姓名、身份证号、电话号码等个人身份信息。</b></p>
+    <p>但为了展示广告与提升稳定性，第三方服务（例如 Google AdMob）可能会自动收集：</p>
+    <ul>
+      <li>设备信息（如设备型号、系统版本、语言、屏幕大小等）</li>
+      <li>广告相关标识（如广告 ID / AAID）</li>
+      <li>粗略位置信息（可能用于广告投放，通常为大致区域，不是精确定位）</li>
+      <li>应用使用情况（崩溃日志、性能数据等）</li>
+    </ul>
+  </div>
+
+  <h2>2. 我们如何使用这些信息？</h2>
+  <ul>
+    <li>用于展示广告（如横幅/插页/激励广告）</li>
+    <li>用于统计与分析（例如崩溃修复、性能优化）</li>
+    <li>用于防止欺诈与滥用（例如广告作弊检测）</li>
+  </ul>
+
+  <h2>3. 第三方服务</h2>
+  <p>本应用可能使用以下第三方服务，它们会根据其政策处理数据：</p>
+  <ul>
+    <li>Google AdMob（广告）</li>
+  </ul>
+  <p>你可以查看 Google 的隐私权政策（建议自行搜索 “Google Privacy Policy / AdMob Privacy Policy”）。</p>
+
+  <h2>4. 儿童隐私</h2>
+  <div class="box">
+    <p>我们重视儿童隐私。如果你未满 13 岁，请在监护人同意与陪同下使用本应用。</p>
+    <p>我们不会有意收集未满 13 岁儿童的个人身份信息。如你认为我们可能无意收集了相关信息，请联系开发者，我们将尽快处理。</p>
+  </div>
+
+  <h2>5. 数据安全</h2>
+  <p>我们会采取合理措施保护数据安全，但互联网传输与第三方服务存在风险，无法保证 100% 绝对安全。</p>
+
+  <h2>6. 你的选择</h2>
+  <ul>
+    <li>你可以在设备系统设置中限制广告个性化（或重置广告 ID）。</li>
+    <li>你也可以选择停止使用本应用。</li>
+  </ul>
+
+  <h2>7. 政策更新</h2>
+  <p>我们可能会更新本隐私权政策。更新后会在此页面发布新的“更新日期”。</p>
+
+  <h2>8. 联系我们</h2>
+  <p>如果你对本隐私权政策有任何问题，请联系：</p>
+  <p><b>Email：</b> <code>mmluckyteam@gmail.com</code></p>
+
+  <hr />
+  <p class="muted">© 2025 Word Search Istilah Sejarah SPM</p>
+</body>
+</html>
